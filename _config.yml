@@ -1,0 +1,28 @@
+# Site settings
+
+# title: 
+# email: 
+# description: 
+domain: tj-cahill.github.io
+url: https://tj-cahill.github.io 
+# baseurl: 
+
+# twitter_username: 
+# github_username: 
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
