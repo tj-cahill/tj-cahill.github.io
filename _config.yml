@@ -1,8 +1,9 @@
 # Site settings
 
-# title: 
+title: Tiernan J. Cahill, Media Researcher
+author: Tiernan J. Cahill
 # email: 
-# description: 
+description: ""
 domain: tj-cahill.github.io
 url: https://tj-cahill.github.io 
 # baseurl: 
@@ -14,6 +15,10 @@ url: https://tj-cahill.github.io
 theme: minima
 plugins:
   - jekyll-feed
+
+twitter_username: tj_kritik
+linkedin_username: tjcahill
+github_username: tj-cahill
 
 # exclude:
 #   - .sass-cache/
